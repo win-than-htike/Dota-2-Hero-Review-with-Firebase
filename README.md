@@ -3,7 +3,7 @@ Illustrate Firebase Component
 
 <h2>Screenshot</h2>
 
-<img width="200" alt="portfolio_view" src="https://user-images.githubusercontent.com/13495028/29553365-e1143cea-8740-11e7-8587-76fe8ddb46fb.png">
+<img style="float:left;" width="200" alt="portfolio_view" src="https://user-images.githubusercontent.com/13495028/29553365-e1143cea-8740-11e7-8587-76fe8ddb46fb.png">
 
 <img width="200" alt="portfolio_view" src="https://user-images.githubusercontent.com/13495028/29553441-41eb6ac0-8741-11e7-8097-cbd466bce21b.png">
 
